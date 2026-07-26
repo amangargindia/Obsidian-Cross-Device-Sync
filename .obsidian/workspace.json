@@ -25,10 +25,14 @@
             "id": "1667399932d79af5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New file test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New file test"
             }
           }
         ],
@@ -246,6 +250,7 @@
   },
   "active": "1667399932d79af5",
   "lastOpenFiles": [
+    "New file test.md",
     "Private tokens/cloudflare r2 apis.md",
     "Private tokens/Superbase.md",
     "Private tokens/PAT token for phonetika hosting.md",
@@ -278,7 +283,6 @@
     "Accent, Phonetics, Phonology/Phonology/Pronunciation Rules",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Short A æ.md",
     "Accent, Phonetics, Phonology/Signs of letters.md",
-    "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons/Vowel Merger.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Consonants/Consonant Phemonemons",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons",
     "Accent, Phonetics, Phonology/Phonology/Practices",
