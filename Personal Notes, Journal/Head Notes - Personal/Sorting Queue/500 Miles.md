@@ -1,0 +1,2 @@
+- [500 Miles - Esja men's choir - YouTube](https://www.youtube.com/watch?v=bZaszZwIiLo) - Great choir
+- [Usha Uthup – Five Hundred Miles x Jab Koi Baat Bigad Jaye | Fusion Cover 2026 - YouTube](https://www.youtube.com/watch?v=cGJTQ91bwvg) - Great bgm dum dum; and OH FUCKING BOYYYY the switch to Hindii! As a comment says "When I first heard 500 miles I desperately wanted to hear these two songs together. My wish has come true!!!! What a gorgeous rendition <3" Plus she has got that good accent aswell!!!

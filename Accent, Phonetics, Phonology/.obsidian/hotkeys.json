@@ -1,0 +1,162 @@
+{
+  "ya-gpt:improve-writing": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": [],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F11"
+    }
+  ],
+  "backlink:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F8"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F9"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    }
+  ]
+}

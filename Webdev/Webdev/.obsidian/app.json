@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "autoConvertHtml": false,
+  "openBehavior": "file:Timeline",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "WebDev/Attachments",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}

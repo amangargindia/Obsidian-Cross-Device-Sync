@@ -1,0 +1,11 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "accentColor": "#ff0000",
+  "baseFontSize": 27,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Table",
+    "Video height"
+  ]
+}

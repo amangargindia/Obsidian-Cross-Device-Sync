@@ -1,0 +1,5 @@
+.markdown-rendered table,
+.markdown-source-view table {
+    table-layout: fixed;
+    width: 100%;
+}

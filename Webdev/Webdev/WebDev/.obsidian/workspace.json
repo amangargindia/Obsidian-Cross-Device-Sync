@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "aa86bece83274be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca78fa177adff128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1914a6493f63b242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lorem Ipsum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lorem Ipsum"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c034235b0a08d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ef03a8b0915996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be65ea62c08d821",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5bbd2a4335d31f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c4a3c1aaa575cf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8bc51d41eb2ffafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab1c1a0e8d12f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8daee3d727afaf83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily note/2026-06-09.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-06-09"
+            }
+          },
+          {
+            "id": "1fb2ec1b7ce4dc1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily note/2026-06-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-09"
+            }
+          },
+          {
+            "id": "b7ca50b92ef556c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db7962b8ca9faad4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1ff044ae772d16b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Open Graph.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Open Graph"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "aosr:Aosr": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "1914a6493f63b242",
+  "lastOpenFiles": [
+    "Flashcard creator syntax.md",
+    "Lorem Ipsum.md",
+    "Untitled 1.md",
+    "Flashcard test.md",
+    "Test.md",
+    "Open Graph.md",
+    "Article element.md",
+    "HTML/Audio and Video in HTML.md",
+    "How to raise and lower a text.md",
+    "How to show code in HTML.md",
+    "Link states.md",
+    "How to semantically show date and time in html.md",
+    "How to show wrong texts in HTML.md",
+    "How to show abbreviation.md",
+    "Description list.md",
+    "Daily note/2026-06-02.md",
+    "Daily note/2026-06-08.md",
+    "Daily note/2026-06-07.md",
+    "HTML/Things to keep in header I.md",
+    "Daily note/2026-06-09.md",
+    "How to link pages of same website in html.md",
+    "How to show foreign fonts in HTML.md",
+    "How to show strikethrough in HTML.md",
+    "How to show clickable phone number and email in html.md",
+    "How to show address semantically in HTML.md",
+    "How to quote and cite people.md",
+    "JS",
+    "Pasted image 20260607144922.png",
+    "Pasted image 20260607144919.png",
+    "CSS Timing of animation.mp4",
+    "Pasted image 20260607142122.png",
+    "Pasted image 20260607142116.png",
+    "Pasted image 20260607140333.png",
+    "Pasted image 20260607140332.png",
+    "Pasted image 20260607140330.png",
+    "Pasted image 20260607140326.png",
+    "Pasted image 20260607140320.png",
+    "Pasted image 20260607140314.png",
+    "Tips",
+    "HTML",
+    "CSS",
+    "Daily note/Daily note template",
+    "Daily note",
+    "Template"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "globalIntervalDays": 10,
+  "folderFilterMode": "excluded",
+  "excludedFolders": [
+    "Primary System"
+  ],
+  "includedFolders": [],
+  "folderIntervals": [],
+  "showReviewStatus": true,
+  "showDueCounter": true,
+  "showRibbonIcon": true,
+  "frontmatterIntervalKey": "review_interval",
+  "frontmatterReviewedKey": "reviewed"
+}

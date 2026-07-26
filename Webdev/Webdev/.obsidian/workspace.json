@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5b1a3a9a28f0b952",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d44f5496a44003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830ff886da418376",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/CSS/Basic CSS/Timeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "362af1666b94e5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d69e3c32ef63c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819759a2868d9fb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8911d4d260a92b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aria rol",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35575b12c2d97052",
+    "type": "split",
+    "children": [
+      {
+        "id": "b16d368f8edf3e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05123695b2e8fe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7fe9bfac1bd7e31a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "469b92e6491f099c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "remotely-save:Remotely Save": true,
+      "aosr:Aosr": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "830ff886da418376",
+  "lastOpenFiles": [
+    "WebDev/CSS/Basic CSS/What is the default height and width of elements.md",
+    "WebDev/CSS/Basic CSS/Timeline.md",
+    "WebDev/CSS/Basic CSS/How is external CSS linked to HTML.md",
+    "WebDev/CSS/Basic CSS/Where is internal CSS placed.md",
+    "WebDev/CSS/Basic CSS/When is inline CSS used.md",
+    "WebDev/HTML/horizontal line.md",
+    "WebDev/CSS/Basic CSS/Selector and Declaration.md",
+    "WebDev/HTML/Disable user zooming.md",
+    "WebDev/HTML/Forms, Tables, Buttons/How to give caption to tables.md",
+    "WebDev/CSS/Basic CSS",
+    "WebDev/HTML/Accesibility/Color contrast ration.md",
+    "My Projects/Checkout page.md",
+    "My Projects/Movie Review Page.md",
+    "WebDev/HTML/Accesibility/WAI ARIA.md",
+    "WebDev/HTML/Forms, Tables, Buttons/Name attribute in form.md",
+    "WebDev/HTML/Forms, Tables, Buttons/How to make tables in HTML.md",
+    "WebDev/CSS/Selectors in CSS.md",
+    "My Projects/Video and audio player page.md",
+    "WebDev/HTML/Accesibility/How to set custom keys for specific elements.md",
+    "WebDev/HTML/Accesibility/Adding captions to video and audio.md",
+    "WebDev/HTML/Accesibility/How to control order of navigation using tab key.md",
+    "WebDev/HTML/Accesibility/POUR standards for accessibility.md",
+    "WebDev/HTML/Accesibility/Tools to check accessibility.md",
+    "WebDev/HTML/Forms, Tables, Buttons/How to make checkbox in HTML form.md",
+    "WebDev/HTML/Accesibility/Hide content from screen readers.md",
+    "WebDev/HTML/Accesibility/How to get range selector for form or button.md",
+    "WebDev/HTML/Accesibility/Do all images need to have an alt.md",
+    "WebDev/Design rules",
+    "WebDev/HTML/Basics",
+    "WebDev/HTML/Accesibility",
+    "WebDev/Attachments/Pasted image 20260611152646.png",
+    "WebDev/Attachments/{0A00BC46-53F8-4A82-B40F-AD3A5DFE0DD9}.png",
+    "WebDev/Attachments/{248DE710-BA37-4CCC-9649-F6597B60C344}.png",
+    "WebDev/Attachments/{6921C130-689C-4E6C-919D-1F8370C8CFC8}.png",
+    "WebDev/HTML/Forms, Tables, Buttons",
+    "My Projects",
+    "WebDev/Prompts",
+    "WebDev/New folder",
+    "WebDev/Attachments/CSS Timing of animation.mp4",
+    "WebDev/Attachments/Pasted image 20260607144922.png",
+    "WebDev/Attachments/Pasted image 20260607144919.png",
+    "WebDev/Attachments/Pasted image 20260607142122.png",
+    "WebDev/Attachments/Pasted image 20260607142116.png",
+    "WebDev/Attachments/Pasted image 20260607140333.png",
+    "WebDev/Attachments/Pasted image 20260607140332.png",
+    "WebDev/Attachments"
+  ]
+}

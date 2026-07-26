@@ -1,0 +1,31 @@
+#Q
+How to Tell screenreaders if a th is for row or column
+?
+By using `spope="row"` (if th is for row) or `scope="col"` (if th is for column)
+Example code:
+```
+<table>
+  <caption>Our Pets</caption>
+  <thead>
+    <tr>
+      <!-- Now they have scope -->
+      <th scope="col">Name</th>
+      <th scope="col">Age</th>
+      <th scope="col">Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Nora</th>
+      <td>5</td>
+      <td>Dog</td>
+    </tr>
+    <tr>
+      <th scope="row">Gino</th>
+      <td>2</td>
+      <td>Cat</td>
+    </tr>
+  </tbody>
+</table>
+```
+#/Q 

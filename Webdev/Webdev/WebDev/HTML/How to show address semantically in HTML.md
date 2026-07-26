@@ -1,0 +1,26 @@
+
+#Q #AOSR/3f6vc
+How to show address semantically in HTML
+? #AOSR/3f6vc/m/1fgh
+Using the `<address>Address goes here</address>` element
+``` Example
+<address>
+
+  <h2>Company Name</h2>
+
+  <p>
+
+    1234 Elm Street<br />
+
+    Springfield, IL 62701<br />
+
+    United States
+
+  </p>
+
+  <p>Phone: <a href="tel:+15555555555">+1 (555) 555-5555</a></p>
+
+  <p>Email: <a href="mailto:contact@company.com">contact@company.com</a></p>
+
+</address>
+```

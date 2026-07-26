@@ -1,0 +1,42 @@
+{
+  "previousRelease": "1.1.2",
+  "style": {
+    "themeAware": true,
+    "dividerColor": "#6aa9ff",
+    "dividerThickness": 2,
+    "dividerOpacity": 1,
+    "dividerStyle": "solid",
+    "blockBgColor": "#2b2b2b",
+    "blockTextColor": "#e0e0e0",
+    "titleTextColor": "#7aa2ff",
+    "alternatingShading": true,
+    "showBorders": true,
+    "borderRadius": 4,
+    "borderThickness": 2,
+    "transparentBackground": false,
+    "blockPadding": 12,
+    "blockGap": 0,
+    "showToolbar": true,
+    "dividerHoverColor": "#8bbdff",
+    "dragActiveShadow": "rgba(0,0,0,0.08)"
+  },
+  "horizontal-block-layout-42618eeefff41521": {
+    "bg-1": "#403b3b",
+    "fg-1": "#f2f2f2",
+    "width-1": 503
+  },
+  "horizontal-block-layout-e33afd723f370cf3": {
+    "width-1": 407
+  },
+  "horizontal-block-layout-a577bba911517890": {
+    "bg-0": "#cc7f7f",
+    "bg-1": "#a46060"
+  },
+  "horizontal-block-layout-260bba0f244ba8bb": {
+    "width-0": 641
+  },
+  "horizontal-block-layout-c434e5eb8d9eb74e": {
+    "width-1": 737,
+    "width-0": 309
+  }
+}

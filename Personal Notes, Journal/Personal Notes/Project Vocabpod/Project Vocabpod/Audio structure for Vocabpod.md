@@ -1,0 +1,3 @@
+- Pronunciation of the word
+- Have music
+- Compress

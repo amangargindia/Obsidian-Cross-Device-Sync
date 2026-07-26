@@ -1,0 +1,4 @@
+#Q  #AOSR/5hno1
+What is rem
+? #AOSR/5hno1/m/4fel
+In CSS, **`rem`** stands for **"root em"** and is a relative unit of measurement calculated based on the **font size of the root element**, which is the `<html>` element. By default, most modern web browsers set this root font size to **`16px`**. This means that by default, `1rem` is exactly equal to `16px`. [[1](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/), [2](https://www.geeksforgeeks.org/css/what-are-rem-units-in-css/), [3](https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/), [4](https://elementor.com/blog/px-to-rem/)]

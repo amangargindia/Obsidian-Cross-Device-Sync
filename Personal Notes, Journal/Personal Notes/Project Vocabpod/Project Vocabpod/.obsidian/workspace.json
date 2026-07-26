@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "eec7e1d6168fb315",
+    "type": "split",
+    "children": [
+      {
+        "id": "373fd767747463c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f7a444cb420ee34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audio structure for Vocabpod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Audio structure for Vocabpod"
+            }
+          },
+          {
+            "id": "fba98d5b3d6f3f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word storage/Words for vocabpod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Words for vocabpod"
+            }
+          },
+          {
+            "id": "d03fbcd4d6788d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax For Vocabpod words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syntax For Vocabpod words"
+            }
+          },
+          {
+            "id": "cae0b91025fe4f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme colors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theme colors"
+            }
+          },
+          {
+            "id": "5a74e388f934821a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App todo"
+            }
+          },
+          {
+            "id": "b235ce602661a6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API key code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API key code"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "679993584909b41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "913e814f61ac5ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a51e9ca7ce1070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61fc9c99c640e563",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "payment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ebb58635be6815e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6998477ffb155e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb47944a144dab63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51f684287d2c8eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curriculum/Words for vocabpod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Words for vocabpod"
+            }
+          },
+          {
+            "id": "ed3b1cdeff4c547a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ideas"
+            }
+          },
+          {
+            "id": "c17a5cb37da50bd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01ffa9e81ed571dc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d4875de038700fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b235ce602661a6e4",
+  "lastOpenFiles": [
+    "API key code.md",
+    "Syntax For Vocabpod words.md",
+    "word storage/Words for vocabpod.md",
+    "App todo.md",
+    "Rectify.md",
+    "recuperate.md",
+    "Vehament.md",
+    "Glimmer.md",
+    "Tremble.md",
+    "Rediculous.md",
+    "word storage/terrific (praising.md",
+    "Theme colors.md",
+    "word storage/Hectic.md",
+    "word storage",
+    "Wrod storage",
+    "Audio structure for Vocabpod.md",
+    "Untitled.md",
+    "SVG test.md",
+    "Project design.md",
+    "Departments/1. Content/Batching/Prompts/Vocabpod System Prompt.md",
+    "Departments/1. Content/Batching/Prompts/Good mnemonic Prompt.md",
+    "Departments/1. Content/Batching/Prompts/Vocab generation prompt.md",
+    "Departments/1. Content/SOP for VocabPod N.md",
+    "Departments/2. Website and hosting/Website/Website Code/Vocabpod Compiler Code.md",
+    "Clippings/How to Design Accessible Dark Mode Interfaces.md",
+    "Feature Ideas.md",
+    "Business Introcution.md",
+    "Departments/2. Website and hosting/Website/Brainstorming/Sales funnel landing page.md",
+    "Clippings",
+    "Departments/2. Website and hosting/Website/Brainstorming",
+    "Excalidraw",
+    "Pasted image 20260519130104.png",
+    "Pasted image 20260519130055.png",
+    "Pasted image 20260519130048.png",
+    "Pasted image 20260519130039.png",
+    "Departments/1. Content/Spaced Repetition",
+    "Departments/Socials/Credentials",
+    "Departments/Socials",
+    "Pasted image 20260519111741.png",
+    "Departments/Quality assurance/Analytics",
+    "Pasted image 20260519105355.png",
+    "Departments/4. Revenue and Payments/Untitled"
+  ]
+}

@@ -1,0 +1,12 @@
+== Added by TickTickSync -- 1.1.17 == 
+- [ ] sql emoji limit - validate data  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110ebba05289e0c681d296) #ticktick  %%[ticktick_id:: 6a110ebba05289e0c681d296]%%
+- [ ] Get it to write logs  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110eb4a05289e0c681d28a) #ticktick  %%[ticktick_id:: 6a110eb4a05289e0c681d28a]%%
+- [ ] prevent api key leaks  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110e59a05289e0c681d277) #ticktick  %%[ticktick_id:: 6a110e59a05289e0c681d277]%%
+- [ ] have rate limiting  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110e3ba05289e0c681d264) #ticktick  %%[ticktick_id:: 6a110e3ba05289e0c681d264]%%
+- [ ] Add Google Analytics  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a0c0861e9ad3c000000017c) #ticktick  %%[ticktick_id:: 6a0c0861e9ad3c000000017c]%%
+- [ ] Setup auto image resizing  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110c9fe9ad3c0000000342) #ticktick  %%[ticktick_id:: 6a110c9fe9ad3c0000000342]%%
+- [ ] Add keyboard shortcut  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110be3e9ad3c000000033a) #ticktick  %%[ticktick_id:: 6a110be3e9ad3c000000033a]%%
+- [ ] Add notification  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a110bdee9ad3c0000000333) #ticktick  %%[ticktick_id:: 6a110bdee9ad3c0000000333]%%
+- [ ] remove the handcrafted with apple theme thing  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a0d52f9e9ad3c0000000377) #ticktick  %%[ticktick_id:: 6a0d52f9e9ad3c0000000377]%%
+- [ ] Add SMTP to supabase and enable sending email verificatin  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a0caffbe9ad3c0000000304) #ticktick  %%[ticktick_id:: 6a0caffbe9ad3c0000000304]%%
+- [ ] Make new passwords  [link](https://ticktick.com/webapp/#p/6a0c0854e9ad3c0000000172/tasks/6a0c0866e9ad3c0000000185) #ticktick  %%[ticktick_id:: 6a0c0866e9ad3c0000000185]%%

@@ -1,0 +1,3 @@
+- [[Concequences of skipping Articles lol]]
+- [[Noun to verb fiasco]]
+- 
