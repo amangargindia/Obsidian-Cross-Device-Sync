@@ -15,7 +15,17 @@
               "state": {
                 "file": "Private tokens/cloudflare r2 apis.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "cloudflare r2 apis"
@@ -166,9 +176,9 @@
   },
   "active": "3af1077f623467d6",
   "lastOpenFiles": [
+    "Overall System/Daily Notes/2026-07-26.md",
     "Overall System/Daily Notes/01-07-2026.md",
     "Overall System/Daily Notes/Accent - topics studied.md",
-    "Overall System/Daily Notes/2026-07-26.md",
     "Private tokens/cloudflare r2 apis.md"
   ]
 }
