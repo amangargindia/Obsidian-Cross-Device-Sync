@@ -2,7 +2,7 @@
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "accentColor": "#ff0000",
-  "baseFontSize": 18,
+  "baseFontSize": 23,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "Table",
