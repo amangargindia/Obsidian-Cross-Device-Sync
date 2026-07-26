@@ -7,4 +7,4 @@ Ma'nimmiii :)))
 ![[NimmiChimmiSIteZip.zip]]
 
 
-- [ ] Add Chat with Nimmi on Telegram with Daksh archive to here📅 2026-07-05 
+- [x] Add Chat with Nimmi on Telegram with Daksh archive to here 📅 2026-07-05 ✅ 2026-07-26

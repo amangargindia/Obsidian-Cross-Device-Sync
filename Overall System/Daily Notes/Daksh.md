@@ -7,5 +7,5 @@
 
 
 # Tasks and Schedule
-- [ ] Daksh Exam 📅 2026-07-21
+- [x] Daksh Exam 📅 2026-07-21 ✅ 2026-07-26
 - [ ] 

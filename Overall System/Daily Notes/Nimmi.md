@@ -11,4 +11,4 @@
 - [[Kyun..]]
 - [[Kab...]]
 ## Tasks
-- [ ] Add phone number📅 2026-07-05 
+- [x] Add phone number 📅 2026-07-05 ✅ 2026-07-26
