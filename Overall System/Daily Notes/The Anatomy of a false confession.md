@@ -21,7 +21,7 @@ And the fucking time it takes? Why the hell it took you like years to just Deny 
 
 Man I hope me or like anyone does not falls in this trap....
 
-- [ ] Update reading status on Storygraph 📅 2026-07-04
+- [x] Update reading status on Storygraph 📅 2026-07-04 ✅ 2026-07-26
 
 
 
