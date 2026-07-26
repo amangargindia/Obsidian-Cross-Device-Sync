@@ -233,45 +233,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "b38f7d22ff2d2762",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5017a7f9d6dd31c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "5dbd023c6049771b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "30ae6a26229964ae",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/ViscousPot/GitSync",
-                    "title": "GitHub - ViscousPot/GitSync: Mobile Git client for syncing a repository between remote and a local directory · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - ViscousPot/GitSync: Mobile Git client for syncing a repository between remote and a local directory · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 128,
-        "y": 0,
-        "width": 1024,
-        "height": 720,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "ca24c88c32d20527",
   "lastOpenFiles": [
     "Private tokens/Superbase.md",
