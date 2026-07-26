@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private tokens/cloudflare r2 apis.md",
-                "mode": "source",
+                "file": "Overall System/Daily Notes/2026-07-26.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloudflare r2 apis"
-            }
-          },
-          {
-            "id": "1667399932d79af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New file test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New file test"
+              "title": "2026-07-26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,15 +233,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1667399932d79af5",
+  "active": "ca24c88c32d20527",
   "lastOpenFiles": [
-    "New file test.md",
     "Private tokens/cloudflare r2 apis.md",
+    "Overall System/Daily Notes/2026-07-26.md",
+    "New file test.md",
     "Private tokens/Superbase.md",
     "Private tokens/PAT token for phonetika hosting.md",
     "Private tokens",
     "Git Key.md",
-    "Overall System/Daily Notes/2026-07-26.md",
     "Overall System/Templates and Prompts/Templates/DNT9999.md",
     "Personal Notes, Journal/Mentions/GitHub.md",
     "Personal Notes, Journal/Mentions",
