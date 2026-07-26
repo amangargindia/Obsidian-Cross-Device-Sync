@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "cloudflare r2 apis"
             }
+          },
+          {
+            "id": "1667399932d79af5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca24c88c32d20527",
+  "active": "1667399932d79af5",
   "lastOpenFiles": [
+    "Private tokens/cloudflare r2 apis.md",
     "Private tokens/Superbase.md",
     "Private tokens/PAT token for phonetika hosting.md",
     "Private tokens",
@@ -267,7 +279,6 @@
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Short A æ.md",
     "Accent, Phonetics, Phonology/Signs of letters.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons/Vowel Merger.md",
-    "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons/Vocalic Equivalance.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Consonants/Consonant Phemonemons",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons",
     "Accent, Phonetics, Phonology/Phonology/Practices",
