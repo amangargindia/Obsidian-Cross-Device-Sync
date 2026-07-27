@@ -8,20 +8,73 @@
         "type": "tabs",
         "children": [
           {
+            "id": "31704fcf5671e8d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overall System/Daily Notes/2026-07-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-07-27"
+            }
+          },
+          {
             "id": "ca24c88c32d20527",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accent, Phonetics, Phonology/Phonetics/IPA/The Alphabet/Pronouncing A.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pronouncing A"
+            }
+          },
+          {
+            "id": "0887c0b358ced5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overall System/Daily Notes/2026-07-26.md",
-                "mode": "preview",
-                "source": false
+                "file": "Schwa A ə.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2026-07-26"
+              "title": "Schwa A ə"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc9aa79fac7906c2",
@@ -235,9 +289,15 @@
   },
   "active": "ca24c88c32d20527",
   "lastOpenFiles": [
+    "Schwa A ə.md",
+    "Accent, Phonetics, Phonology/Phonetics/IPA/The Alphabet/Pronouncing A.md",
+    "Accent, Phonetics, Phonology/Phonetics/Phonetics Head Notes/Letters of English Alphabet.md",
     "TaskForge.md",
-    "Private tokens/cloudflare r2 apis.md",
+    "Untitled.md",
+    "Personal Notes, Journal/FYM I forgot the name.md",
+    "Overall System/Daily Notes/2026-07-27.md",
     "Overall System/Daily Notes/2026-07-26.md",
+    "Private tokens/cloudflare r2 apis.md",
     "New file test.md",
     "Private tokens/Superbase.md",
     "Private tokens/PAT token for phonetika hosting.md",
@@ -254,7 +314,6 @@
     "Accent, Phonetics, Phonology/Mission Accent Management",
     "Overall System",
     "Accent, Phonetics, Phonology/Phonetics/Phonetics Head Notes/Long Vowel.md",
-    "Accent, Phonetics, Phonology/Phonetics/Phonetics Head Notes/Letters of English Alphabet.md",
     "Accent, Phonetics, Phonology/Accent General Head Notes/Good Resources.md",
     "Accent, Phonetics, Phonology/Phonetics/Phonetics Head Notes/Digraphs.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons/Vowel teams vs Diphthongs.md",
@@ -262,12 +321,7 @@
     "Accent, Phonetics, Phonology/Phonology/Phonology Head Notes/Types of syllables.md",
     "Accent, Phonetics, Phonology/Phonology/Phonology Head Notes",
     "Accent, Phonetics, Phonology/Phonology/Phonology Head Note.md",
-    "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons/Vowel Teams.md",
-    "Accent, Phonetics, Phonology/Phonology/Pronunciation Rules/Suffixes and silent e.md",
-    "Accent, Phonetics, Phonology/Phonology/Pronunciation Rules/Silent e pattern.md",
-    "Accent, Phonetics, Phonology/Phonology/Pronunciation Rules/Silent e making C and G soft when after it.md",
     "Accent, Phonetics, Phonology/Phonology/Pronunciation Rules",
-    "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Short A æ.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Consonants/Consonant Phemonemons",
     "Accent, Phonetics, Phonology/Phonetics/IPA/Vowels/Vowel Phenomenons",
     "Accent, Phonetics, Phonology/Phonology/Practices",
