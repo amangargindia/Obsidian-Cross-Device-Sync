@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overall System/Daily Notes/2026-07-26.md",
-                "mode": "source",
+                "file": "Personal Notes, Journal/FYM I forgot the name.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,68 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-26"
-            }
+              "title": "FYM I forgot the name"
+            },
+            "group": "28053fca9a788de5"
           }
         ]
+      },
+      {
+        "id": "1bc6f004d1c31882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2705ca0ec50de8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Personal Notes, Journal/FYM I forgot the name.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "28053fca9a788de5"
+          },
+          {
+            "id": "2af81fdbaad6305d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-27 11.25.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-27 11.25.41.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,9 +212,19 @@
           "icon": "clock",
           "title": "Chronology"
         }
+      },
+      {
+        "id": "594534d1eda0b43c",
+        "type": "leaf",
+        "state": {
+          "type": "ya-gpt-chat",
+          "state": {},
+          "icon": "bot",
+          "title": "Smart vault chat"
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +242,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3af1077f623467d6",
+  "active": "2af81fdbaad6305d",
   "lastOpenFiles": [
+    "Personal Notes, Journal/FYM I forgot the name.md",
+    "Excalidraw/Drawing 2026-07-27 11.25.41.excalidraw.md",
+    "Excalidraw",
+    "Overall System/Daily Notes/2026-07-27.md",
     "TaskForge.md",
     "Accent, Phonetics, Phonology/Phonetics/IPA/The Alphabet/Pronouncing A.md",
     "Overall System/Daily Notes/2026-07-26.md",
